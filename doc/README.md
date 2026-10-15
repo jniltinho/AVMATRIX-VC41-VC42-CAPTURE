@@ -246,26 +246,27 @@ git push origin v1.0.0.230324-1
 
 ## Where to buy
 
-Prices checked in October 2026; they change often and imports may add taxes.
+Prices in US dollars, checked on 2026-10-15; they change often and imports may add taxes.
+`≈` marks prices converted from BRL or EUR at 1 USD = 5.04 BRL = 0.894 EUR.
 
 ### VC42 (4× HDMI)
 
 | Store | Listing | Price |
 |---|---|---|
-| AliExpress | [007 digital Store (4.9★, 2000+ sold)](https://pt.aliexpress.com/item/1005006349125084.html) | R$ 1,593.67 |
-| AliExpress | [VC42 4-channel HDMI PCIe](https://pt.aliexpress.com/item/1005009279122812.html) | R$ 1,636.58 |
-| AliExpress | [VC42 4CH PCIe capture card](https://pt.aliexpress.com/item/1005012080472057.html) | R$ 1,660.99 |
+| AliExpress | [007 digital Store (4.9★, 2000+ sold)](https://pt.aliexpress.com/item/1005006349125084.html) | ≈ US$ 316 |
+| AliExpress | [VC42 4-channel HDMI PCIe](https://pt.aliexpress.com/item/1005009279122812.html) | ≈ US$ 325 |
+| AliExpress | [VC42 4CH PCIe capture card](https://pt.aliexpress.com/item/1005012080472057.html) | ≈ US$ 330 |
 | AliExpress | [All VC42 listings](https://pt.aliexpress.com/w/wholesale-avmatrix-vc42.html) | |
 | Amazon US | [B0B9868GRH](https://www.amazon.com/dp/B0B9868GRH) | US$ 299.00 |
-| Amazon BR | [B0GWQVRX7K](https://www.amazon.com.br/dp/B0GWQVRX7K) | R$ 2,885.55 |
+| Amazon BR | [B0GWQVRX7K](https://www.amazon.com.br/dp/B0GWQVRX7K) | ≈ US$ 573 |
 | eBay | [Search "avmatrix vc42"](https://www.ebay.com/sch/i.html?_nkw=avmatrix+vc42) | |
 
 ### VC41 (4× 3G-SDI)
 
 | Store | Listing | Price |
 |---|---|---|
-| AliExpress | [VC41 4-CH 3G-SDI PCIe](https://pt.aliexpress.com/item/1005012166572444.html) | R$ 1,953.61 |
-| AliExpress | [VC41 4CH 3G-SDI PCIe](https://pt.aliexpress.com/item/1005012080380684.html) | R$ 1,953.61 |
+| AliExpress | [VC41 4-CH 3G-SDI PCIe](https://pt.aliexpress.com/item/1005012166572444.html) | ≈ US$ 388 |
+| AliExpress | [VC41 4CH 3G-SDI PCIe](https://pt.aliexpress.com/item/1005012080380684.html) | ≈ US$ 388 |
 | AliExpress | [All VC41 listings](https://pt.aliexpress.com/w/wholesale-avmatrix-vc41.html) | |
 | Amazon US | [B0B95RZGH1](https://www.amazon.com/dp/B0B95RZGH1) | US$ 349.00 |
 | Amazon BR | [B0GWR25HQ6](https://www.amazon.com.br/dp/B0GWR25HQ6) | |
