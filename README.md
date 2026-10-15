@@ -1,6 +1,6 @@
 # AVMATRIX VC41 / VC42 Linux driver
 
-[![Release](https://img.shields.io/github/v/release/jniltinho/AVMATRIX-VC41-VC42-CAPTURE?color=blue)](https://github.com/jniltinho/AVMATRIX-VC41-VC42-CAPTURE/releases/latest)
+[![Release](https://img.shields.io/github/v/release/jniltinho/AVMATRIX-VC41-VC42-CAPTURE?color=blue&cacheSeconds=3600)](https://github.com/jniltinho/AVMATRIX-VC41-VC42-CAPTURE/releases/latest)
 [![Build .deb](https://github.com/jniltinho/AVMATRIX-VC41-VC42-CAPTURE/actions/workflows/build-deb.yml/badge.svg)](https://github.com/jniltinho/AVMATRIX-VC41-VC42-CAPTURE/actions/workflows/build-deb.yml)
 [![License: GPL](https://img.shields.io/badge/license-GPL-green)](LICENSE)
 
